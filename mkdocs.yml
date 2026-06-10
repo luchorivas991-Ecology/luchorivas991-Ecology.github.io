@@ -7,9 +7,9 @@
 # Edit all lines marked [YOUR ...] to customize your site
 # ============================================================
 
-site_name: "[YOUR NAME] - Geospatial Portfolio"
-site_description: "Portfolio of [YOUR NAME] — GIS, Remote Sensing, and Spatial Data Science"
-site_author: "[YOUR NAME]"
+site_name: "Luciano's Geospatial Portfolio"
+site_description: "Portfolio of Luciano — GIS, Remote Sensing, and Spatial Data Science"
+site_author: "Luciano Rivas"
 # After your site is live, uncomment and set this to your actual GitHub Pages URL:
 #site_url: "https://your-username.github.io/your-repo-name"
 
@@ -59,12 +59,12 @@ markdown_extensions:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
-copyright: "Copyright &copy; [YOUR NAME]"
+copyright: "Copyright &copy; Luciano"
 
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/[YOUR-GITHUB-USERNAME]
+      link: https://github.com/luchorivas991-Ecology
     - icon: fontawesome/brands/linkedin
       link: https://linkedin.com/in/[YOUR-LINKEDIN-USERNAME]
     - icon: material/email
