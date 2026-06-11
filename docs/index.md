@@ -36,7 +36,7 @@ I am an Ecologist with a background in wildlife conservation, agricultural studi
 I mainly work with spatial data from satellite imagery, machine learning datasets from remote sensing (images and bioacustic data), and on-site vegetation and soil analysis. As my normal workflow, I use Python, RStudio, Google Earth Engine, and open-source GIS tools. 
 I have been implementing the use of GeoAI to my projects with the goal to more accurately assess different data scenarios, from large data sets on landscape analysis, connectivity, urban and land planning. 
 
-I am currently seeking opportunities in Biodiversity and landscape analysis in Europe and South America.
+I am currently seeking opportunities in the field of Biodiversity and landscape analysis in Europe and Argentina.
 
 </div>
 
