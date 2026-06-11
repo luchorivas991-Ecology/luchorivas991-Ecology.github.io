@@ -43,9 +43,9 @@ Thesis: Use of hair traps as a non-invasive method to collect hair samples from 
 
 ## Publications
 
-- Cassini, M.H. & Rivas, L. (2023). Lack of evidence of significant impact of European rabbits on Patagonian Forest regeneration. *European Journal of Wildlife Research*, 69, 74.
-- Rivas, L. & Cassini, M.H. (2024). Origin matters? Comparing impacts of native and introduced ungulates in European protected areas. *Mammal Review*, 54: 299–309.
-- Cassini, M.H. & Rivas, L. (2024). Hyperpredation as a mechanism responsible for the impact of introduced populations on native biodiversity. *Acta Oecologica*, 125, 104035.
+- Cassini, M.H. & **Rivas, L.** (2023). Lack of evidence of significant impact of European rabbits on Patagonian Forest regeneration. *European Journal of Wildlife Research*, 69, 74.
+- **Rivas, L.** & Cassini, M.H. (2024). Origin matters? Comparing impacts of native and introduced ungulates in European protected areas. *Mammal Review*, 54: 299–309.
+- Cassini, M.H. & **Rivas, L.** (2024). Hyperpredation as a mechanism responsible for the impact of introduced populations on native biodiversity. *Acta Oecologica*, 125, 104035.
 
 ---
 
