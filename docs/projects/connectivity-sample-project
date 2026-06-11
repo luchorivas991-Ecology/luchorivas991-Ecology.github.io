@@ -1,0 +1,51 @@
+# Landscape Connectivity Between Protected Areas in Corrientes, Argentina
+
+![Project overview image](../assets/images/project1-cover.png)
+
+## Overview
+
+Connectivity analysis for medium-sized mammals between two protected areas in Corrientes, Argentina, using land cover and infrastructure data to identify viable wildlife corridors while minimising human impact.
+
+**Study Area:** Corrientes, Argentina
+**Duration:** May 2026
+**Role:** Solo project
+**Status:** Completed
+
+---
+
+## Methods & Tools
+
+**Data Sources**
+
+- ESA WorldCover (land cover classification)
+- OpenStreetMap (human infrastructure and roads)
+
+**Processing Steps**
+
+1. Acquired and preprocessed land cover data from ESA WorldCover via Google Earth Engine
+2. Mapped human infrastructure and barriers using OpenStreetMap data
+3. Performed least-cost path / connectivity modelling for medium-sized mammals
+4. Delineated and evaluated the resulting corridor reserve
+
+**Tools Used**
+
+| Tool | Purpose |
+|------|---------|
+| Google Earth Engine | Land cover data acquisition and preprocessing |
+| RStudio | Connectivity modelling and spatial analysis |
+| Python | Data processing and automation |
+| QGIS | Visualisation and cartographic output |
+
+---
+
+## Key Findings
+
+- The resulting reserve covers approximately **12,313 ha** of land
+- Land cover is dominated by grasslands (**47.92%**), tree cover (**20%**), and herbaceous wetlands (**18.27%**)
+- The corridor successfully avoids most croplands and human infrastructure, maximising habitat suitability for target species
+
+---
+
+## Links
+
+[View Code on GitHub](https://github.com/){.md-button}
