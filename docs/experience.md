@@ -3,13 +3,6 @@ hide:
   - toc
   - navigation
 ---
-<!--
-CHECKLIST FOR THIS PAGE:
-- [ ] Replace each [YOUR ...] placeholder with your actual information
-- [ ] Add or remove job entries as needed (copy the format of an existing entry)
-- [ ] Add or remove education entries
-- [ ] Add or remove certifications
--->
 
 # Experience & Education
 
@@ -19,23 +12,12 @@ CHECKLIST FOR THIS PAGE:
 
 <div class="timeline-entry" markdown>
 
-### [YOUR JOB TITLE] — [YOUR COMPANY / ORGANIZATION]
-*[Month Year] – [Month Year or Present] | [City, Country]*
+### Research Assistant — University of Groningen
+*2025 – Present | Groningen, Netherlands*
 
-- [Describe your main responsibility or achievement in one sentence]
-- [Describe another key task, project, or result]
-- [Describe a tool, method, or skill you applied regularly]
-
-</div>
-
-<div class="timeline-entry" markdown>
-
-### [YOUR PREVIOUS JOB TITLE] — [YOUR PREVIOUS COMPANY]
-*[Month Year] – [Month Year] | [City, Country]*
-
-- [Describe your main responsibility or achievement in one sentence]
-- [Describe another key task, project, or result]
-- [Describe a tool, method, or skill you applied regularly]
+- Conducting Research Project 1 on the role of soil health in small-scale dairy farming under extensive and intensive management
+- Working within the Agroecology and Sustainable Landscapes group on biodiversity conservation in productive systems
+- Applying ecological data analysis and GIS tools to assess sustainable landscape management
 
 </div>
 
@@ -45,22 +27,28 @@ CHECKLIST FOR THIS PAGE:
 
 ## Education
 
-### [YOUR DEGREE] in [YOUR FIELD]
-**[YOUR UNIVERSITY]** | *[Year of Graduation]*
+### MSc in Ecology and Evolution
+**Rijksuniversiteit Groningen** | *2025 – 2027 (expected)*
 
-[Optional: one sentence about your thesis, specialization, or coursework if relevant]
+Focus on biodiversity conservation, ecological data analysis, sustainable landscapes, and conservation in productive systems.
 
 ---
 
-### [YOUR PREVIOUS DEGREE] in [YOUR FIELD]
-**[YOUR UNIVERSITY]** | *[Year of Graduation]*
+### BSc in Biology
+**University of Belgrano, Buenos Aires, Argentina** | *2019 – 2024*
+
+Thesis: Use of hair traps as a non-invasive method to collect hair samples from Patagonian carnivores for genetic studies. Focus on Ecology and Conservation.
+
+---
+
+## Publications
+
+- Cassini, M.H. & Rivas, L. (2023). Lack of evidence of significant impact of European rabbits on Patagonian Forest regeneration. *European Journal of Wildlife Research*, 69, 74.
+- Rivas, L. & Cassini, M.H. (2024). Origin matters? Comparing impacts of native and introduced ungulates in European protected areas. *Mammal Review*, 54: 299–309.
+- Cassini, M.H. & Rivas, L. (2024). Hyperpredation as a mechanism responsible for the impact of introduced populations on native biodiversity. *Acta Oecologica*, 125, 104035.
 
 ---
 
 ## Certifications
 
-- [Certification Name] — [Issuing Organization], [Year]
-- [Certification Name] — [Issuing Organization], [Year]
-- [Certification Name] — [Issuing Organization], [Year]
-
-*Examples: QGIS Certification, PMP Certification, AWS Certified Cloud Practitioner*
+- *No certifications listed — add any relevant ones here (e.g., QGIS, remote sensing courses)*
