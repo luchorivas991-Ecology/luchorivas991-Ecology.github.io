@@ -7,8 +7,8 @@
 # Edit all lines marked [YOUR ...] to customize your site
 # ============================================================
 
-site_name: "Luciano's Geospatial Portfolio"
-site_description: "Portfolio of Luciano — GIS, Remote Sensing, and Spatial Data Science"
+site_name: "Luciano's Portfolio"
+site_description: "Portfolio of Luciano — Ecology, Remote Sensing, GIS, and Spatial Data Science"
 site_author: "Luciano Rivas"
 # After your site is live, uncomment and set this to your actual GitHub Pages URL:
 #site_url: "https://your-username.github.io/your-repo-name"
@@ -27,13 +27,13 @@ theme:
     # cyan, teal, green, light green, lime, yellow, amber, orange, deep orange
     - scheme: default            # Light mode
       primary: indigo
-      accent: blue
+      accent: green
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
     - scheme: slate              # Dark mode
       primary: indigo
-      accent: blue
+      accent: green
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
@@ -59,16 +59,16 @@ markdown_extensions:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
-copyright: "Copyright &copy; Luciano"
+copyright: "Copyright &copy; Luciano Rivas"
 
 extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/luchorivas991-Ecology
     - icon: fontawesome/brands/linkedin
-      link: https://linkedin.com/in/[YOUR-LINKEDIN-USERNAME]
+      link: https://linkedin.com/in/luciano-rivas-620305200
     - icon: material/email
-      link: mailto:[YOUR-EMAIL-ADDRESS]
+      link: mailto:luchorivas991@gmail.com
 
 
 plugins:

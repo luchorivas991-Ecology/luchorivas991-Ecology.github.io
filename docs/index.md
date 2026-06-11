@@ -21,8 +21,8 @@ CHECKLIST FOR THIS PAGE:
 <div class="hero">
   <img src="assets/images/profile.png" alt="[YOUR NAME]" class="profile-photo">
   <h1>Luciano Rivas</h1>
-  <p><strong>Ecologist</strong></p>
-  <p><em>Wildlife Ecologist - Turning spatial data into insights | GIS | Remote Sensing | Python</em></p>
+  <p><strong>Biologist</strong></p>
+  <p><em>Wildlife Ecologist - Turning biodiversity data into insights | GIS | Remote Sensing | Python</em></p>
 </div>
 
 ---
@@ -32,15 +32,11 @@ CHECKLIST FOR THIS PAGE:
 <div class="about-section" markdown>
 <div class="about-text" markdown>
 
-[Replace this paragraph with your own bio. Write 3–4 sentences covering: your background and
-what you specialize in, the kinds of problems you work on, the tools and methods you use,
-and what you are currently looking for. Example below:]
+I am an Ecologist with a background in wildlife conservation, agricultural studies, and invasive species management. 
+I mainly work with spatial data from satellite imagery, machine learning datasets from remote sensing (images and bioacustic data), and on-site vegetation and soil analysis. As my normal workflow, I use Python, RStudio, Google Earth Engine, and open-source GIS tools. 
+I have been implementing the use of GeoAI to my projects with the goal to more accurately assess different data scenarios, from large data sets on landscape analysis, connectivity, urban and land planning. 
 
-I am a geospatial data scientist with a background in remote sensing and machine learning.
-I work on extracting actionable insights from satellite imagery and large spatial datasets
-using Python, Google Earth Engine, and open-source GIS tools. I am passionate about applying
-GeoAI techniques to real-world challenges in land use mapping, climate monitoring, and urban
-planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TARGET LOCATION].
+I am currently seeking opportunities in Biodiversity and landscape analysis in Europe and South America.
 
 </div>
 
@@ -53,7 +49,7 @@ planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TA
 ---
 
 [View My Projects :material-arrow-right:](projects/index.md){ .md-button .md-button--primary }
-[Download CV :material-download:](assets/[YOUR-NAME]-CV.pdf){ .md-button }
+[Download CV :material-download:](assets/Luciano Rivas - CV (1).pdf){ .md-button }
 
 
 ---
@@ -66,7 +62,7 @@ planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TA
 
     ---
 
-    - QGIS, ArcGIS Pro, Google Earth Engine
+    - QGIS, Google Earth Engine, RStudio, Python
     - GDAL / OGR, GRASS GIS
     - Multispectral and SAR image analysis
     - Cloud Native Geospatial (COG, STAC, Zarr)
@@ -118,5 +114,5 @@ planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TA
 
 ## Connect
 
-[GitHub](https://github.com/[YOUR-GITHUB-USERNAME]){ .md-button }
-[LinkedIn](https://linkedin.com/in/[YOUR-LINKEDIN-USERNAME]){ .md-button }
+[GitHub](https://github.com/luchorivas991-Ecology){ .md-button }
+[LinkedIn](https://linkedin.com/in/luciano-rivas-620305200){ .md-button }
