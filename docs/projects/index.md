@@ -3,28 +3,19 @@ hide:
   - toc
   - navigation
 ---
-<!--
-CHECKLIST FOR THIS PAGE:
-- [ ] Replace the two placeholder cards (marked [YOUR PROJECT ...]) with your real projects
-- [ ] For each project: add a thumbnail image to docs/assets/images/ and update the path below
-- [ ] For each project: create a project page by copying sample-project.md
-- [ ] For each project: add a nav entry in mkdocs.yml (see the comments there)
-- [ ] Delete placeholder cards you don't need yet
--->
 
 # Projects
 
-A selection of my geospatial projects. Click any card to see the full write-up.
+A selection of my projects. Click any card to see the full write-up.
 
 <div class="grid" markdown>
 
 <div class="project-card" markdown>
-![](../assets/images/project1-cover-png)
+![](../assets/images/project1-cover.png)
 
-**[Sample Project](project1.md)**
+**[Landscape Connectivity Analysis](project1.md)**
 
-[YOUR PROJECT DESCRIPTION — one or two sentences: what you did, what data you used,
-and what you found or built.]
+Built a proposed natural reserve to increase medium-sized mammal connectivity between two existing National Parks in Corrientes, Argentina using a least-cost path approach.
 
 `GEE` `QGIS` `RStudio`
 
@@ -32,16 +23,42 @@ and what you found or built.]
 </div>
 
 <div class="project-card" markdown>
-![](../assets/images/placeholder-notebook.png)
+<video controls width="100%">
+  <source src="../assets/images/Video%20Project%202a.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
-**[Sample Notebook](sample-notebook.ipynb)**
+**[AI species detection](YOLO_AI.md)**
 
-[YOUR PROJECT DESCRIPTION — one or two sentences: what you did, what data you used,
-and what you found or built.]
+I trained a pilot YOLO species detection model using ocelot, paca, and red fox camera-trap images.
 
-`Python` `pandas` `Folium`
+`YOLO` `AI` `PowerShell` `Python`
 
-[View Project →](sample-notebook.ipynb){ .md-button }
+[View Project →](YOLO_AI.md){ .md-button }
+</div>
+
+<div class="project-card" markdown>
+![](../assets/images/Almirante%20Brown%20deforestaci%C3%B3n%20timelapse.gif)
+
+**[Argentinian Chaco land-use change visualization](deforestation.md)**
+
+Animated spatial visualization of native forest loss and agricultural expansion in two highly degraded municipalities of the Argentinian Chaco between 1994 and 2023.
+
+`QGIS` `PyQGIS` `Remote Sensing` `Land-use Change` `Data Visualization`
+
+[View Project →](deforestation.md){ .md-button }
+</div>
+
+<div class="project-card" markdown>
+![](../assets/images/Layout 1.png)
+
+**[Jaguar habitat use in the Brazilian Pantanal](habitat_use_jaguar.md)**
+
+I modelled habitat use of a jaguar individual in the Brazilian Pantanal using GPS tracking data, QGIS Model Designer, and a Step Selection Function in RStudio.
+
+`QGIS` `RStudio` `SSF` `GPS Tracking` `Movement Ecology`
+
+[View Project →](habitat_use_jaguar.md){ .md-button }
 </div>
 
 </div>

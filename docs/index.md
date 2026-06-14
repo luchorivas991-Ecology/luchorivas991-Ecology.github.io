@@ -20,9 +20,9 @@ CHECKLIST FOR THIS PAGE:
 
 <div class="hero">
   <img src="assets/images/profile.png" alt="[YOUR NAME]" class="profile-photo">
-  <h1>Luciano Rivas</h1>
+  <h1><strong>Luciano Rivas</strong></h1>
   <p><strong>Biologist</strong></p>
-  <p><em>Wildlife Ecologist - Turning biodiversity data into insights | GIS | Remote Sensing | Python</em></p>
+  <p><em>Wildlife ecologist | Biodiversity data | GIS & remote sensing | R & Python</em></p>
 </div>
 
 ---
@@ -32,16 +32,14 @@ CHECKLIST FOR THIS PAGE:
 <div class="about-section" markdown>
 <div class="about-text" markdown>
 
-I am an Ecologist with a background in wildlife conservation, agricultural studies, and invasive species management. 
-I mainly work with spatial data from satellite imagery, machine learning datasets from remote sensing (images and bioacustic data), and on-site vegetation and soil analysis. As my normal workflow, I use Python, RStudio, Google Earth Engine, and open-source GIS tools. 
-I have been implementing the use of GeoAI to my projects with the goal to more accurately assess different data scenarios, from large data sets on landscape analysis, connectivity, urban and land planning. 
+I am an ecologist working at the intersection of biodiversity conservation, landscape ecology, GIS, remote sensing, and GeoAI. My projects integrate satellite imagery, ecological field data, vegetation and soil indicators, and machine-learning workflows to assess land-use dynamics, ecological connectivity, and biodiversity responses in agricultural, urban landscapes, and protected areas.
 
-I am currently seeking opportunities in the field of Biodiversity and landscape analysis in Europe and Argentina.
+I mainly work with Python, R, Google Earth Engine, and open-source GIS tools, and I am currently seeking opportunities in biodiversity and landscape analysis in Europe and Argentina.
 
 </div>
 
 <div class="about-image">
-  <img src="assets/images/about.png" alt="About">
+  <img src="assets/images/about_me.jpeg" alt="About">
 </div>
 
 </div>
@@ -49,8 +47,7 @@ I am currently seeking opportunities in the field of Biodiversity and landscape 
 ---
 
 [View My Projects :material-arrow-right:](projects/index.md){ .md-button .md-button--primary }
-[Download CV :material-download:](assets/Luciano Rivas - CV (1).pdf){ .md-button }
-
+[Download CV :material-download:](assets/Luciano_Rivas_Academic_CV (1).pdf){ .md-button }
 
 ---
 
@@ -63,50 +60,66 @@ I am currently seeking opportunities in the field of Biodiversity and landscape 
     ---
 
     - QGIS, Google Earth Engine, RStudio, Python
-    - GDAL / OGR, GRASS GIS
-    - Multispectral and SAR image analysis
-    - Cloud Native Geospatial (COG, STAC, Zarr)
+    - Spatial analysis, raster processing, and map design
+    - Land-use / land-cover analysis and reclassification
+    - NDVI, temperature, and environmental raster extraction
+    - Habitat suitability, ecological connectivity, and least-cost analysis
+    - QGIS Model Designer and basic PyQGIS workflows
 
--   :material-code-braces:{ .lg .middle } **Programming**
+-   :material-code-braces:{ .lg .middle } **Programming & Data Analysis**
 
     ---
 
-    - Python — GeoPandas, NumPy, Pandas, Matplotlib
-    - R — sf, terra, ggplot2
-    - JavaScript — Leaflet, MapLibre GL
-    - SQL, PostgreSQL + PostGIS
+    - R — `sf`, `terra`, `ggplot2`, `dplyr`, `survival`
+    - Python — `pandas`, `NumPy`, `Matplotlib`, `pathlib`, `shutil`
+    - Ecological statistics and reproducible workflows
+    - Data cleaning, visualization, and exploratory analysis
+    - Git, GitHub, PowerShell, and command-line workflows
 
 -   :material-star-four-points:{ .lg .middle } **Machine Learning & GeoAI**
 
     ---
 
-    - Supervised classification — Random Forest, XGBoost
-    - Deep learning for image segmentation — U-Net, SAM
-    - scikit-learn, PyTorch, TensorFlow
-    - Object detection in satellite imagery
+    - YOLO object detection for camera-trap imagery
+    - Image annotation with MakeSense.ai
+    - Species detection from images and video inference
+    - Pilot workflows for ecological computer vision
+    - GeoAI-assisted spatial analysis and biodiversity mapping
+    - Model limitations, validation needs, and ecological interpretation
 
--   :material-earth:{ .lg .middle } **Web Mapping & Data**
-
-    ---
-
-    - Leaflet.js, Folium, MapLibre GL JS
-    - Cloud storage — AWS S3, Google Cloud Storage
-    - Data formats — GeoTIFF, GeoParquet, NetCDF
-    - Streamlit for data-driven web apps
-
--   :material-database:{ .lg .middle } **Data & Cloud**
+-   :material-earth:{ .lg .middle } **Landscape Ecology & Conservation**
 
     ---
 
-    - PostgreSQL + PostGIS
-    - Cloud storage: AWS S3, Google Cloud Storage
-    - Data formats: GeoJSON, GeoTIFF, NetCDF, Zarr, GeoParquet
+    - Ecological connectivity and corridor planning
+    - Wildlife movement analysis and habitat use modelling
+    - Step Selection Functions with GPS tracking data
+    - Biodiversity monitoring in protected and productive landscapes
+    - Human-modified landscapes, habitat fragmentation, and land-use change
+    - Conservation-oriented spatial planning
 
--   :material-airplane:{ .lg .middle } **Drone / UAV Data Processing**
+-   :material-database:{ .lg .middle } **Ecological & Field Data**
 
-    - Mission planning and flight operations
-    - Photogrammetry: Agisoft Metashape, OpenDroneMap
-    - Point cloud processing: CloudCompare, PDAL
+    ---
+
+    - Camera-trap data organization and species monitoring
+    - Vegetation, soil, and biodiversity indicators
+    - Soil health analysis in agricultural landscapes
+    - Non-invasive genetic sampling for carnivore studies
+    - Fieldwork in Patagonia and protected areas
+    - Data integration from field surveys, remote sensing, and GIS layers
+
+-   :material-chart-line:{ .lg .middle } **Scientific Communication**
+
+    ---
+
+    - Academic writing and literature synthesis
+    - Peer-reviewed publications in wildlife ecology and invasive species
+    - Scientific posters and conference presentations
+    - Portfolio project documentation in Markdown and Jupyter Notebook
+    - Map-based storytelling and data visualization
+    - Technical communication for conservation and applied ecology
+
 </div>
 
 

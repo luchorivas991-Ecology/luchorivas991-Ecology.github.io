@@ -3,44 +3,49 @@ hide:
   - toc
   - navigation
 ---
-<!--
-CHECKLIST FOR THIS PAGE:
-- [ ] Replace each [YOUR ...] placeholder with your actual information
-- [ ] Add or remove entries in each section as needed
-- [ ] Remove sections that are not applicable (e.g., Theses, Conference Presentations)
-- [ ] Add DOI or URL links where available
--->
 
 # Publications
 
-## Journal Articles
-
-1. [YOUR NAME], [CO-AUTHOR NAME], and [CO-AUTHOR NAME] ([YEAR]). "[Your paper title here]." *[Journal Name]*, [Volume] [Issue], [Page range]. [DOI link or URL]
-
-2. [YOUR NAME] and [CO-AUTHOR NAME] ([YEAR]). "[Your paper title here]." *[Journal Name]*, [Volume] [Issue], [Page range]. [DOI link or URL]
-
-3. [YOUR NAME] ([YEAR]). "[Your paper title here]." *[Journal Name]*, [Volume] [Issue], [Page range]. [DOI link or URL]
+A selection of peer-reviewed publications, conference presentations, and academic work related to wildlife ecology, invasive species, biodiversity conservation, and ecological research.
 
 ---
 
-## Conference Papers & Presentations
+## Journal Articles
 
-1. [YOUR NAME] and [CO-AUTHOR NAME] ([YEAR]). "[Your presentation title]." *[Conference Name]*, [City, Country].
+1. Cassini, M. H., & **Rivas, L.** (2023). Lack of evidence of significant impact of European rabbits on Patagonian forest regeneration. *European Journal of Wildlife Research, 69*, 74.  
+   https://doi.org/10.1007/s10344-023-01710-1
 
-2. [YOUR NAME] ([YEAR]). "[Your presentation title]." *[Conference Name]*, [City, Country].
+2. **Rivas, L.**, & Cassini, M. H. (2024). Origin matters? Comparing impacts of native and introduced ungulates in European protected areas. *Mammal Review, 54*, 299–309.  
+   https://doi.org/10.1111/mam.12345
+
+3. Cassini, M. H., & **Rivas, L.** (2024). Hyperpredation as a mechanism responsible for the impact of introduced populations on native biodiversity. *Acta Oecologica, 125*, 104035.  
+   https://doi.org/10.1016/j.actao.2024.104035
+
+---
+
+## Conference Presentations
+
+1. **Rivas, L.** (2024). *Use of hair traps as a non-invasive method to collect hair samples from Patagonian carnivores for genetic studies*. Poster presentation at the XXXV Argentine Meeting of Mammalogists, San Luis, Argentina.
 
 ---
 
 ## Theses
 
-- [YOUR NAME] ([YEAR]). *[Your thesis title]*. [Degree type] thesis. [University Name].
+- **Rivas, L.** (2024). *Use of hair traps as a non-invasive method to collect hair samples from Patagonian carnivores for genetic studies*. BSc thesis, University of Belgrano, Buenos Aires, Argentina.
 
 ---
 
-## Reports & Technical Documents
+## Research Themes
 
-- [YOUR NAME] et al. ([YEAR]). *[Report title]*. [Organization Name]. [URL or DOI if available]
+My current publication record focuses on:
+
+- Wildlife ecology
+- Invasive species
+- Human impacts on biodiversity
+- Mammal ecology
+- Conservation in protected and human-modified landscapes
+- Non-invasive methods for carnivore monitoring
 
 ---
 
-*For citation counts and a full list, see [Google Scholar](https://scholar.google.com) or [ResearchGate](https://www.researchgate.net).*
+*For additional academic and professional updates, see my [LinkedIn profile](https://www.linkedin.com/in/luciano-rivas-620305200) and [GitHub portfolio](https://github.com/luchorivas991-Ecology).*

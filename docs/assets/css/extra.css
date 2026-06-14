@@ -9,10 +9,19 @@
 }
 
 /* Hero section on the Home page */
-.hero {
+/* Hero section on the Home page */
+.md-typeset .hero {
   text-align: center;
-  padding: 1rem 1rem 1.25rem 1rem;
-  background: linear-gradient(135deg, #e8f4f8 0%, #f0f7ff 50%, #e8f0fe 100%);
+  padding: 2rem 1rem 2.25rem 1rem;
+  background:
+    linear-gradient(
+      rgba(238, 247, 238, 0.82),
+      rgba(238, 247, 238, 0.82)
+    ),
+    url("../images/Ecosytems.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
   border-radius: 8px;
 }
 
@@ -112,3 +121,5 @@
   border-radius: 4px;
   margin-bottom: 0.75rem;
 }
+
+

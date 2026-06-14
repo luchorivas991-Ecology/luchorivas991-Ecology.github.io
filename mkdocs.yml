@@ -11,7 +11,7 @@ site_name: "Luciano's Portfolio"
 site_description: "Portfolio of Luciano — Ecology, Remote Sensing, GIS, and Spatial Data Science"
 site_author: "Luciano Rivas"
 # After your site is live, uncomment and set this to your actual GitHub Pages URL:
-#site_url: "https://your-username.github.io/your-repo-name"
+#site_url: "https://your-username.github.io/luchorivas991-Ecology"
 
 theme:
   name: material
@@ -19,21 +19,21 @@ theme:
   # Browse icons at https://squidfunk.github.io/mkdocs-material/reference/icons-emojis/
   # and replace "material/earth" with any "material/..." icon name you prefer.
   icon:
-    logo: material/earth
+    logo: material/paw
   palette:
     # To change the color, edit the 'primary' and 'accent' values below for both
     # the 'default' (light) and 'slate' (dark) schemes.
     # Available colors: red, pink, purple, deep purple, indigo, blue, light blue,
     # cyan, teal, green, light green, lime, yellow, amber, orange, deep orange
     - scheme: default            # Light mode
-      primary: indigo
-      accent: green
+      primary: green
+      accent: light green
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
     - scheme: slate              # Dark mode
-      primary: indigo
-      accent: green
+      primary: green
+      accent: light green
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
@@ -46,7 +46,8 @@ theme:
     code: Roboto Mono
 
 extra_css:
-  - assets/css/extra.css
+  - assets/css/extra.css 
+
 
 markdown_extensions:
   - md_in_html        # Allows Markdown inside HTML blocks (used for project cards)
@@ -80,8 +81,10 @@ nav:
   - Home: index.md
   - Projects:
     - "All Projects": projects/index.md
-    - "Sample Project": projects/project1.md
-    - "Jupyter Notebook Project": projects/sample-notebook.ipynb
+    - "Landscape connectivity": projects/project1.md
+    - "Chaco deforestation timelapse": projects/deforestation.md 
+    - "YOLO AI model": projects/YOLO_AI.md 
+    - "Jaguar habitat use ": projects/habitat_use_jaguar.md
     # HOW TO ADD A NEW PROJECT:
     # 1. Copy docs/projects/sample-project.md to docs/projects/your-project-name.md
     #    (or drop an .ipynb file into docs/projects/ for a Jupyter notebook project)

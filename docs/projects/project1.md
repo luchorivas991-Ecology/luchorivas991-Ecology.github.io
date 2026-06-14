@@ -45,7 +45,3 @@ Connectivity analysis for medium-sized mammals between two protected areas in Co
 - The corridor successfully avoids most croplands and human infrastructure, maximising habitat suitability for target species
 
 ---
-
-## Links
-
-[View Code on GitHub](https://github.com/){.md-button}
