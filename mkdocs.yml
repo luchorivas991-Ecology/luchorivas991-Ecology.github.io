@@ -85,6 +85,7 @@ nav:
     - "Chaco deforestation timelapse": projects/deforestation.md 
     - "YOLO AI model": projects/YOLO_AI.md 
     - "Jaguar habitat use ": projects/habitat_use_jaguar.md
+    - "Gran Chaco connectivity": projects/gran_chaco_connectivity_portfolio.md
     # HOW TO ADD A NEW PROJECT:
     # 1. Copy docs/projects/sample-project.md to docs/projects/your-project-name.md
     #    (or drop an .ipynb file into docs/projects/ for a Jupyter notebook project)

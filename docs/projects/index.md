@@ -11,6 +11,18 @@ A selection of my projects. Click any card to see the full write-up.
 <div class="grid" markdown>
 
 <div class="project-card" markdown>
+![](../assets/images/P5.png)
+
+**[Potential connectivity surface for medium-sized mammals in the Argentine Chaco](gran_chaco_connectivity_portfolio.md)**
+
+This project models potential functional connectivity for medium-sized to large forest-associated mammals in the Argentine Chaco using a reproducible GIS workflow.
+
+`Python` `QGIS` `Connectivity` `Conservation Planning`
+
+[View Project →](gran_chaco_connectivity_portfolio.md){ .md-button }
+</div>
+
+<div class="project-card" markdown>
 ![](../assets/images/project1-cover.png)
 
 **[Landscape Connectivity Analysis](project1.md)**
