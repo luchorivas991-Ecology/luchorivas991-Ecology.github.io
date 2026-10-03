@@ -8,6 +8,8 @@ hide:
 
 A selection of my projects. Click any card to see the full write-up.
 
+## Research Projects
+
 <div class="grid" markdown>
 
 <div class="project-card" markdown>
@@ -71,6 +73,28 @@ I modelled habitat use of a jaguar individual in the Brazilian Pantanal using GP
 `QGIS` `RStudio` `SSF` `GPS Tracking` `Movement Ecology`
 
 [View Project →](habitat_use_jaguar.md){ .md-button }
+</div>
+
+</div>
+
+---
+
+## Ecological Consultancy
+
+Applied ecological consultancy projects focused on habitat suitability, biodiversity planning, environmental screening, and conservation-oriented spatial workflows.
+
+<div class="grid" markdown>
+
+<div class="project-card" markdown>
+![](../assets/images/SDM%201%20-%20A.%20risora.png)
+
+**[Habitat suitability modelling for *Alectrurus risora*](alectrurus-risora-sdm.md)**
+
+Species distribution modelling workflow for *Alectrurus risora*, integrating occurrence records, environmental predictors, Google Earth Engine outputs, and GIS-based habitat suitability mapping.
+
+`Google Earth Engine` `SDM` `QGIS` `Habitat Suitability` `Conservation Planning`
+
+[View Project →](alectrurus-risora-sdm.md){ .md-button }
 </div>
 
 </div>

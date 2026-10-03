@@ -6,6 +6,8 @@ The projects presented in this section are independent consultancy case studies 
 
 They are designed around realistic client scenarios and environmental decision making problems, with an emphasis on reproducibility, scientific transparency, and practical conservation outcomes.
 
+*WORK IN PROGRESS* 
+
 ---
 
 ## Areas of Expertise
