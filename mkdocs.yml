@@ -89,7 +89,7 @@ nav:
           - "Gran Chaco connectivity": projects/gran_chaco_connectivity_portfolio.md
 
       - "Ecological Consultancy":
-          - "Overview": projects/consultancy.md
+          - "Overview": projects/index.md
           - "Habitat suitability": projects/alectrurus-risora-sdm.md
 
   - Publications: publications.md
