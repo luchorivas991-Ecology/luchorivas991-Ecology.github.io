@@ -13,11 +13,16 @@ hide:
 <div class="timeline-entry" markdown>
 
 ### Research Assistant — University of Groningen
-*2025 – Present | Groningen, Netherlands*
+*2025 – September 2026 | Groningen, Netherlands*
 
 - Conducting research on the management strategies that drive soil health on dairy farming systems, as well as integrating it with Limosa limosa densities on a gradient of fields with and without Agri-Environmental Schemes
 - Working within the Agroecology and Sustainable Landscapes group on biodiversity conservation in productive systems
 - Applying ecological data analysis and GIS tools to assess sustainable landscape management
+
+*October 2026 - Present | Groningen, Netherlands*
+
+-
+
 
 </div>
 

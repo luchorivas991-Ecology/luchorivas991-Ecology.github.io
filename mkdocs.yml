@@ -80,18 +80,18 @@ plugins:
 nav:
   - Home: index.md
   - Projects:
-    - "All Projects": projects/index.md
-    - "Landscape connectivity": projects/project1.md
-    - "Chaco deforestation timelapse": projects/deforestation.md 
-    - "YOLO AI model": projects/YOLO_AI.md 
-    - "Jaguar habitat use ": projects/habitat_use_jaguar.md
-    - "Gran Chaco connectivity": projects/gran_chaco_connectivity_portfolio.md
-    # HOW TO ADD A NEW PROJECT:
-    # 1. Copy docs/projects/sample-project.md to docs/projects/your-project-name.md
-    #    (or drop an .ipynb file into docs/projects/ for a Jupyter notebook project)
-    # 2. Edit the new file with your project content
-    # 3. Add a line below (same format): - "Your Project Title": projects/your-project-name.md
-    # 4. Add a project card on docs/projects/index.md
+      - "Research Projects":
+          - "Overview": projects/index.md
+          - "Landscape connectivity": projects/project1.md
+          - "Chaco deforestation timelapse": projects/deforestation.md
+          - "YOLO AI model": projects/YOLO_AI.md
+          - "Jaguar habitat use": projects/habitat_use_jaguar.md
+          - "Gran Chaco connectivity": projects/gran_chaco_connectivity_portfolio.md
+
+      - "Ecological Consultancy":
+          - "Overview": projects/consultancy.md
+          - "Habitat suitability": projects/alectrurus-risora-sdm.md
+
   - Publications: publications.md
   - Experience: experience.md
   - Contact: contact.md

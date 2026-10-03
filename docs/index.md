@@ -55,25 +55,23 @@ I mainly work with Python, R, Google Earth Engine, and open-source GIS tools, an
 
 <div class="grid cards" markdown>
 
--   :material-layers:{ .lg .middle } **GIS & Remote Sensing**
+-   :material-layers:{ .lg .middle } **GIS, Remote Sensing & SDM**
 
     ---
 
-    - QGIS, Google Earth Engine, RStudio, Python
-    - Spatial analysis, raster processing, and map design
-    - Land-use / land-cover analysis and reclassification
-    - NDVI, temperature, and environmental raster extraction
+    - QGIS, Google Earth Engine, RStudio, and Python
+    - Land-use / land-cover analysis, NDVI, temperature, and environmental raster extraction
+    - Species Distribution Modelling with Google Earth Engine and environmental predictors
     - Habitat suitability, ecological connectivity, and least-cost analysis
-    - QGIS Model Designer and basic PyQGIS workflows
+    - Map design, raster processing, and reproducible spatial workflows
 
 -   :material-code-braces:{ .lg .middle } **Programming & Data Analysis**
 
     ---
 
     - R — `sf`, `terra`, `ggplot2`, `dplyr`, `survival`
-    - Python — `pandas`, `NumPy`, `Matplotlib`, `pathlib`, `shutil`
-    - Ecological statistics and reproducible workflows
-    - Data cleaning, visualization, and exploratory analysis
+    - Python — `pandas`, `NumPy`, `Matplotlib`, `GeoPandas`, `Rasterio`
+    - Ecological statistics, data cleaning, visualization, and reproducible workflows
     - Git, GitHub, PowerShell, and command-line workflows
 
 -   :material-star-four-points:{ .lg .middle } **Machine Learning & GeoAI**
@@ -83,20 +81,17 @@ I mainly work with Python, R, Google Earth Engine, and open-source GIS tools, an
     - YOLO object detection for camera-trap imagery
     - Image annotation with MakeSense.ai
     - Species detection from images and video inference
-    - Pilot workflows for ecological computer vision
     - GeoAI-assisted spatial analysis and biodiversity mapping
-    - Model limitations, validation needs, and ecological interpretation
+    - Ecological interpretation, model limitations, and validation needs
 
 -   :material-earth:{ .lg .middle } **Landscape Ecology & Conservation**
 
     ---
 
     - Ecological connectivity and corridor planning
-    - Wildlife movement analysis and habitat use modelling
-    - Step Selection Functions with GPS tracking data
-    - Biodiversity monitoring in protected and productive landscapes
-    - Human-modified landscapes, habitat fragmentation, and land-use change
-    - Conservation-oriented spatial planning
+    - Wildlife movement analysis, habitat use modelling, and Step Selection Functions
+    - Biodiversity monitoring in protected, agricultural, and human-modified landscapes
+    - Habitat fragmentation, land-use change, and conservation-oriented spatial planning
 
 -   :material-database:{ .lg .middle } **Ecological & Field Data**
 
@@ -105,23 +100,19 @@ I mainly work with Python, R, Google Earth Engine, and open-source GIS tools, an
     - Camera-trap data organization and species monitoring
     - Vegetation, soil, and biodiversity indicators
     - Soil health analysis in agricultural landscapes
-    - Non-invasive genetic sampling for carnivore studies
-    - Fieldwork in Patagonia and protected areas
-    - Data integration from field surveys, remote sensing, and GIS layers
+    - Non-invasive genetic sampling and fieldwork in Patagonia and protected areas
+    - Integration of field surveys, remote sensing, and GIS layers
 
 -   :material-chart-line:{ .lg .middle } **Scientific Communication**
 
     ---
 
-    - Academic writing and literature synthesis
-    - Peer-reviewed publications in wildlife ecology and invasive species
-    - Scientific posters and conference presentations
-    - Portfolio project documentation in Markdown and Jupyter Notebook
-    - Map-based storytelling and data visualization
-    - Technical communication for conservation and applied ecology
+    - Academic writing, literature synthesis, and technical reporting
+    - Peer-reviewed publications, posters, and conference presentations
+    - Portfolio documentation in Markdown and Jupyter Notebook
+    - Map-based storytelling and conservation data visualization
 
 </div>
-
 
 ---
 
