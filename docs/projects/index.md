@@ -97,4 +97,17 @@ Species distribution modelling workflow for *Alectrurus risora*, integrating occ
 [View Project →](alectrurus-risora-sdm.md){ .md-button }
 </div>
 
+<div class="project-card" markdown>
+![](../assets/images/Carbon_credits_map.png)
+
+**[Soil carbon farming pre-feasibility in Southwest Friesland](carbon_credits_1.md)**
+
+Preliminary carbon farming assessment combining grassland mapping, soil classification, and soil organic carbon stocks. Identifies approximately 8,030 ha for further assessment and outlines project development considerations under the European CRCF framework.
+
+`Google Earth Engine` `QGIS` `Soil Carbon` `Carbon Farming` `CRCF`
+
+[View Project →](carbon_credits_1.md){ .md-button }
 </div>
+
+</div>
+
